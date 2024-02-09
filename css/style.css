@@ -1,0 +1,100 @@
+*{font-family:'Lato', sans-serif;
+
+}
+
+
+section img.logo{
+    width: 10%;
+    height: auto;
+   
+}
+
+section.navegacion{
+    background-color:#c61313; 
+
+    
+  
+}
+
+.paginas ul li a {
+    font-size: 1em;
+    color:#e9e3dc;
+    text-decoration: none;
+    
+  /* por algun motivo no se aplica el color y los none en los textos */
+    
+
+}
+
+.paginas ul li{ 
+    list-style-type: none;
+    font-size: 1em;
+    
+    color:#e9e3dc;
+}
+
+
+
+
+
+section.presentacion{ 
+
+    background-color:#c61313; 
+    color:#e9e3dc;
+    text-align: center;
+
+}
+
+section.presentacion img {
+
+    width: 1333px;
+    height: 831px;
+}
+
+.cards-menu img{
+    width: 500px; 
+    height:500px; 
+} 
+    
+.fondo-de-pedidos{
+    background-image: url(../assets/pedido.png);
+    width: 1333px;
+    height: 1333px;
+    color:#e9e3dc;
+}
+    
+.fondo-de-pedidos div button{
+    width: 7em;
+    height: 5em;
+}
+
+.fondo-de-sucursales {
+    background-color: #c61313;
+    color:#e9e3dc;
+}
+
+.fondo-de-sucursales iframe {
+
+    width: 50em; 
+    height: 40em; 
+}
+
+.fondo-de-contacto {
+    background-image: url(../assets/contacto.jpg);
+    width: 1333px;
+    height: 831px;
+    color:#e9e3dc; 
+    text-align: center;
+}
+
+/*.formulario-contacto{
+
+    clase creada para seguir haciendo estilos a futuro en esta sección
+    
+} */
+
+
+
+footer{
+    text-align: center;
+}
